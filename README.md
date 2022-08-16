@@ -1,5 +1,4 @@
-Pricing Panel CSS
-<br>
+Pricing Panel CSS <br><br>
 Desktop 
 ![](https://github.com/0xArina/CSS-Pricing-Panel/blob/main/dektop-gif.gif)
 <br>
